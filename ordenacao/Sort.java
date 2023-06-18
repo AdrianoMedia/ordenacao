@@ -1,3 +1,5 @@
+//Adriano, Arthur e Gabriel Santos
+
 package ordenacao;
 
 public interface Sort<T extends Comparable<T>>{
