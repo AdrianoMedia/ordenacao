@@ -1,3 +1,5 @@
+//Adriano, Arthur e Gabriel Santos
+
 package ordenacao;
 
 public class GnomeSort<T extends Comparable<T>> implements Sort<T> {
